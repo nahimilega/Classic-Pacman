@@ -1,5 +1,3 @@
-# Pacman
-Implemented Classic Pacman Game using python
 This is bit modified version of the pacman game created by 
 Archit Agrawal
 2018221
